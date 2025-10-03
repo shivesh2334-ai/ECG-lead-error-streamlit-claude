@@ -10,7 +10,7 @@
     }
   ],
   "stop_reason": "end_turn",
-  "stop_sequence": null,
+  "stop_sequence": none,
   "usage": {
     "input_tokens": 27712,
     "cache_creation_input_tokens": 0,
